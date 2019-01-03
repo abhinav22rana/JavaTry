@@ -1,2 +1,2 @@
-# Auto detect text files and perform LF normalization
+# Auto detect text files and perform LF normalization, this is just for the sake of checking github webhook
 * text=auto
